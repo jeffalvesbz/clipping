@@ -2,3 +2,4 @@ GoogleNews
 twilio
 apscheduler
 requests
+gunicorn
